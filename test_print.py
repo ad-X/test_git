@@ -1,2 +1,3 @@
 print ('hello')
-print('test')
+if True:
+    print('test')
